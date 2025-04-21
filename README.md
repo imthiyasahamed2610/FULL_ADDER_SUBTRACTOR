@@ -1,6 +1,7 @@
 # FULL_ADDER_SUBTRACTOR
-
-Implementation-of-Full-Adder-and-Full-subtractor-circuit
+name : imthiyas ahamed.m
+reg no:212224901087
+I st year EEE
 
 **AIM:**
 
@@ -37,19 +38,27 @@ Diff = A ⊕ B ⊕ Bin
 Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
+![WhatsApp Image 2025-04-16 at 09 28 30_2cb057d2](https://github.com/user-attachments/assets/b56f84f7-6673-49d3-9795-a6c38b5d52cb)
+![WhatsApp Image 2025-04-16 at 09 28 30_b80c876f](https://github.com/user-attachments/assets/d73b1fe7-2415-4092-99da-ee82441ad9b3)
+
 
 **Procedure**
+![Screenshot 2025-04-16 085653](https://github.com/user-attachments/assets/3167518b-40ce-47af-931a-06463c75c405)
+![Screenshot 2025-04-15 104524](https://github.com/user-attachments/assets/ace78e1f-3bfb-481c-a959-9fc56abe2d48)
 
-Write the detailed procedure here
+
 
 **Program:**
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
 
 **RTL Schematic**
+![Screenshot 2025-04-15 104428](https://github.com/user-attachments/assets/f5e81d04-c458-4b47-ad25-9e3768104fd0)
+![Screenshot 2025-04-16 085635](https://github.com/user-attachments/assets/2d5f6d3b-7c9f-439e-9424-118ef39b7713)
+****
 
 **Output Timing Waveform**
+![Screenshot 2025-04-15 111145](https://github.com/user-attachments/assets/bb2eaac6-6316-4f09-8ce7-d948ee4ab94b)
+![Screenshot 2025-04-16 091642](https://github.com/user-attachments/assets/151ffcdc-3b7c-436a-b56a-4115eea79c23)
 
 **Result:**
 
